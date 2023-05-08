@@ -3,12 +3,44 @@ main{
     height: 630px;
     width: 1100px;
     margin: auto;
-
 };
 header {
     border: 1px solid black;
-    height: 1oopx;
+    height: 100px;
     width: 50px;
-
+    text-align: center;
 
 };
+nav{ 
+    border: 3px solid black ;
+    height: 50px;
+    width: 1100px;
+    text-align: center;
+}
+section{
+    border: 3px solid green ;
+    height: 400px ;
+}
+footer{
+    border: 3px solid black;
+    height: 100px ;
+}
+aside{
+    border: 3px soid gold;
+    height:  50px;
+    width: 400px;
+    float: left;
+    margin: 7px;
+}
+article{
+    border: 3px solid brown;
+    height: 120px;
+    width: 600px;
+    float: right;
+}
+ ul li {
+    border: 3px solid blue;
+    width: 100px;
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+}
