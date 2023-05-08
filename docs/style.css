@@ -3,12 +3,34 @@ main{
     height: 630px;
     width: 1100px;
     margin: auto;
-
 };
 header {
     border: 1px solid black;
     height: 1oopx;
     width: 50px;
 
-
 };
+mav{ 
+    border: 3px solid black ;
+    height: 90;
+}
+section{
+    border: 3px solid green ;
+    height: 400px ;
+}
+footer{
+    border: 3px solid black;
+    height: 100px ;
+}
+aside{
+    border: 3px soid gold;
+    height:  50px;
+    width: 400px;
+    float: left;
+}
+article{
+    border: 3px solid brown;
+    height: 120px;
+    width: 600px;
+    float: right;
+}
